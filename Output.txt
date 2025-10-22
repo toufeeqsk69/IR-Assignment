@@ -1,0 +1,19 @@
+Test Case 1
+Misspelled:   यह एक महत्वपुर्ण विषय्य है।
+Corrected:     यह एक महत्वपूर्ण विषय है।
+
+Test Case 2
+Misspelled: आज स्कुल में बऊत मज़ा आया।
+Corrected: आज स्कूल में बहुत मज़ा आया।
+
+Test Case 3
+Misspelled: हमें प्रदूशन को कम करना चाहिये।
+Corrected: हमें प्रदूषण को कम करना चाहिए।
+
+Test Case 4
+Misspelled: उन्होने कहाकी वह कल आएंगे।
+Corrected: उन्होंने कहा कि वह कल आएंगे।
+
+Test Case 5
+Misspelled: भारत् एक देष है।
+Corrected: भारत एक देश है।
